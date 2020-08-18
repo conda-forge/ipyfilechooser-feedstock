@@ -5,7 +5,7 @@ Home: https://github.com/crahan/ipyfilechooser
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Python file chooser widget for use in Jupyter/IPython in conjunction with ipywidgets
 
