@@ -1,5 +1,5 @@
 {% set name = "ipyfilechooser" %}
-{% set version = "0.4.1" %}
+{% set version = "0.4.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 87ccbf4a29eaa8df7e6a0ec2cb2fb8e8c9756dd6cf039b48c1a8bbf598b771bc
+  sha256: 7ea4fd64be22ddec8269b745ad62d7d9b780601fec8e016cc33e4b9153da1201
 
 build:
   noarch: python
